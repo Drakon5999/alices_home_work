@@ -36,7 +36,7 @@ def get_custom_entities(ce_path='custom_entities'):
 
 def prepare_ans(ans):
     ans = ans.lower().strip()
-    regex_filter = re.compile('[^a-zа-яё\s]')
+    regex_filter = re.compile('[^a-zа-яё0-9\s]')
     ans = regex_filter.sub('', ans)
     regex_spaces = re.compile('\s+')
     return  regex_spaces.sub(' ', ans)
