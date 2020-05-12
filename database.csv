@@ -1,0 +1,10 @@
+PRODUCER,MODEL,OS,COST,INTERNAL_MEMORY,MAIN_CAMERA,BATTERY_CAPASITY
+samsung,galaxy s20,android,79990,128,20,4500
+samsung,galaxy fold,android,160000,512,40,4380
+samsung,galaxy note10,android,67000,256,40,3500
+apple,iphone 6s,iOS,14000,32,12,2200
+apple,iphone 11,iOS,62000,64,12,2600
+apple,iphone xr,iOS,50000,64,12,2600
+huawei,p30 lite,android,13000,128,32,3340
+huawei,nova 5t,android,28000,128,48,3750
+huawei,p30 pro,android,60000,256,40,4200
